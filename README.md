@@ -10,10 +10,10 @@ The List View Profile App is an Android application that utilizes a custom ListV
 ## Screenshots
 
 ### Contact List
-![Contact List](screenshots/contact_list.png)
+![Contact List](contact_list.png)
 
 ### Contact Profile
-![Contact Profile](screenshots/contact_profile.png)
+![Contact Profile](contact_profile.png)
 
 ## Usage
 
